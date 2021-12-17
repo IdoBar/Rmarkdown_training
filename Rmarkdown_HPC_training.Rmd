@@ -59,6 +59,11 @@ unzip shell-lesson-data.zip
 cd shell-lesson-data
 ```
 
+## Version control with Git
+We can use `git` for version control and to keep track of our changes. 
+See the following [tutorial](https://towardsdatascience.com/learn-basic-git-commands-for-your-data-science-works-2a75396d530d) and the lifecyle overview below.
+![git lifecycle](https://miro.medium.com/max/700/1*J1qnVEUXzoDgROobmjjR_Q.png)
+
 
 ### Tips and Resources
 * `~` stands for your home folder (usually `/export/home/sNumber`)
